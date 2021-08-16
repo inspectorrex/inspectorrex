@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is InspectorRex
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Java / JS / HTML / CSS / MYSQL
 
 - 🔭 I’m currently working on a Discord Casino Bot 
 - 😄 Pronouns: dog/doge 
