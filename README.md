@@ -2,7 +2,7 @@
 
 Skills: Java / JS / HTML / CSS / MYSQL
 
-- 🔭 I’m currently working on a Discord Casino Bot 
+- 🔭 I’m working on Hobby Projects
 - 😄 Pronouns: dog/doge 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InspectorRex)](https://github.com/anuraghazra/github-readme-stats) 
